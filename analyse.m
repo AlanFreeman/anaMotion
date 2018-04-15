@@ -15,6 +15,8 @@ function [d, m] = analyse(d, m)
 %   Plotting tasks differ in that there are two grouping variables: m.axes
 %   indicates variables that change between axes and m.line indicates
 %   variables that change between lines on an axes.
+% Copyright:
+%   Alan W Freeman
 
 	% Select data
 	d = select(d, m); % select rows in which variables with specified values
