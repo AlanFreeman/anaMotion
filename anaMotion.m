@@ -17,6 +17,8 @@ function anaMotion
 %   testType = 23: fading laterally-shifted Gabor with moving bar
 %   testType = 24: flash then Gabor with variable orientation
 %   testType = 25: fading tilted Gabor with moving bar
+% Copyright:
+%   Alan W Freeman
 
 	% Specify the data source
 	%	m.file = 'MotionFast5.lab';
